@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "tech": "Angular"
+  },
+  {
+    "id": 2,
+    "tech": "React"
+  },
+  {
+    "id": 3,
+    "tech": "Vue"
+  },
+  {
+    "id": 4,
+    "tech": "Bootstrap"
+  },
+  {
+    "id": 5,
+    "tech": "SCSS"
+  },
+  {
+    "id": 6,
+    "tech": "CSS"
+  },
+  {
+    "id": 7,
+    "tech": "Html"
+  }
+]

@@ -1,0 +1,57 @@
+.main-container {
+  width: 300px;
+
+  margin: 30px auto;
+  background-color: white;
+  box-shadow: 0px 0px 10px 3px gray;
+}
+.field-container {
+  display: flex;
+  padding: 10px;
+}
+.field {
+  width: 90%;
+  border: 1px solid green;
+  padding: 5px;
+  border-radius: 5px;
+  margin-right: 2px;
+}
+.toggle-btn {
+  width: 10%;
+  padding: 5px;
+}
+.btn {
+  position: relative;
+}
+.btn-close {
+  position: absolute;
+  top: -7px;
+  right: -2px;
+  background-color: gray;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  color: white;
+}
+.btn-close:hover {
+  cursor: pointer;
+}
+
+.dropdown-elemt {
+  padding: 5px 10px;
+}
+.dropdown-elemt:hover {
+  padding: 5px 10px;
+  background-color: gray;
+  cursor: pointer;
+}
+.toggle-btn {
+  cursor: pointer;
+  background-color: grey;
+  color: white;
+}
+.toggle-btn:hover {
+  cursor: pointer;
+  background-color: rgb(90, 88, 88);
+  color: white;
+}
